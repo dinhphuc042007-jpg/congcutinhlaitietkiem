@@ -9,7 +9,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("💰 TÍNH LÃI GỬI TIẾT KIỆM")
+st.title("💰 CÔNG CỤ TÍNH TIỀN LÃI GỬI TIẾT KIỆM_ĐINH NGUYỄN THIÊN PHÚC")
 st.caption("Công cụ tính tiền lãi tiền gửi theo số tiền, kỳ hạn và lãi suất.")
 
 # =========================
