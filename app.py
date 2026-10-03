@@ -8,6 +8,7 @@ st.set_page_config(
     page_icon="💰",
     layout="centered"
 )
+st.image("logo.jpg")
 
 st.title("💰 CÔNG CỤ TÍNH TIỀN LÃI GỬI TIẾT KIỆM_ĐINH NGUYỄN THIÊN PHÚC")
 st.caption("Công cụ tính tiền lãi tiền gửi theo số tiền, kỳ hạn và lãi suất.")
